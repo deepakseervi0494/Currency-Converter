@@ -3,6 +3,7 @@
 A simple and responsive Currency Converter built using HTML, CSS, and JavaScript.
 It allows users to convert currencies in real time using a free public currency exchange API.
 
+
 🚀 Features
 
 🌍 Supports multiple international currencies
@@ -14,6 +15,7 @@ It allows users to convert currencies in real time using a free public currency 
 ✨ Clean and responsive UI
 
 ⚡ Fast and lightweight (No frameworks used)
+
 
 🛠️ Technologies Used
 
@@ -29,14 +31,23 @@ Flags API – Country flags
 
 Font Awesome – Icons
 
+
 📂 Project Structure
+
 Currency-Converter/
+
 │
+
 ├── index.html      # Main HTML file
+
 ├── style.css       # Styling
+
 ├── script.js       # Currency conversion logic
+
 ├── codes.js        # Currency & country codes
+
 └── README.md       # Project documentation
+
 
 🔗 APIs Used
 
@@ -51,6 +62,7 @@ Displays country flags dynamically
 
 https://flagsapi.com
 
+
 ▶️ How to Run the Project
 
 Clone the repository
@@ -63,6 +75,7 @@ Open the project folder
 Open index.html in any modern web browser
 
 ✅ No server or installation required
+
 
 🧠 How It Works
 
@@ -77,6 +90,7 @@ Converted value is displayed instantly
 Country flags update automatically
 
 
+
 ✨ Future Improvements
 
 Add swap currency button
@@ -87,13 +101,16 @@ Improve mobile responsiveness
 
 Add dark mode
 
+
 🙌 Acknowledgements
 
 Free Currency API by Fawaz Ahmed
 
+
 Flags API
 
 Font Awesome
+
 
 📄 License
 
